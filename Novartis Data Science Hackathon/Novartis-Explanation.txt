@@ -1,0 +1,49 @@
+Following are the process and observations derived from the EDA.
+
+1. Initial analysis led me to missing values in the feature X_12 in both train and test dataset.
+2. The percentage of missing value is pnly 0.76%, hence need to resolve the missing value issue.
+3. I have dealt with the missing values by finding out the correlation that it has with 
+the other feature and I have imputed the mean value of X_12 correspoding to its closely related
+feature X_10.
+
+
+4. With correlation matrix not much visible except a slight correaltion with X_11 with target feature.
+5. There is a high correlation between X_4 & X_5  and between X_6 and X_7 with 
+less between X_8 and X_10,X_12.
+6.  The Predictive Power Score has clearly shown that there is a strong predictive relation between 
+feature X_11 and the target value. Also with less than half the predictability between X_15 
+and the target variable.
+7. The distribution of data of variables X_11 and X_15 are not standardised. 
+
+
+
+
+8. From the countplot of target varaible it is clear that the data is highly imbalanced.
+
+
+
+9. bar plot of all independent variables resulted in the following observations.
+	a) Feature X_11 has the most density with X_13, X_14, X_15, X_2 and X_3 following along.
+	b) One very important observations from PPS matrix and barplot is X_11 has more predictive power 
+	   followed by X_15, still X_13 and X_14 have more density than the X_15, 
+	   which indicates that we need to concentrate only on X_11 and X_15.
+
+
+
+10. In the Box plot, there are more underliers than outliers with mostly uniform till X_10
+	and not so towards the end.
+
+
+
+11. Feature selection has been made with the help of correlation indecies with respect to 
+    target variable. I had dropped four features namely, X_4, X_5, X_9, X_13 to get better results 
+
+
+--> In the following steps I have converted date object into individual constituant of datetime parameter.
+--> Later with SMOTE, the issue of imbalanced data was dealt with.
+--> With scaling the features we can come to terms with stadardization of the data.
+--> After building the base model I got less recall_score, hence I utlised both baysian optimisation with scikit opt library
+     as well as randomized search, I got better score with randomized search (99.83939) compared to baysian search (99.74425),
+     hence I build the final model with a better accuracy model.
+
+ 
