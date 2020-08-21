@@ -17,8 +17,3 @@ The evaluation metric for this hackathon is Accuracy Score.
 
 ## Public and Private split
 The public leaderboard is based on 40% of test data, while final rank would be decided on remaining 60% of test data (which is private leaderboard)
-
-## LeaderBoard:
-### Private LB: 19th rank
-### Public LB: 5th rank
-[https://datahack.analyticsvidhya.com/contest/janatahack-customer-segmentation/#LeaderBoard]
