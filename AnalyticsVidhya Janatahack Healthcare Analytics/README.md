@@ -64,8 +64,3 @@ Patient_ID: Unique Identifier for each patient. This ID is not sequential in nat
 Health_Camp_ID: Unique Identifier for each camp. This ID is not sequential in nature and can not be used in modeling
 
 Outcome: Predicted probability of a favourable outcome
-
-## LeaderBoard
-### Private LB: 88th rank
-### Public LB: 47th rank
-[https://datahack.analyticsvidhya.com/contest/janatahack-healthcare-analytics/#LeaderBoard]
