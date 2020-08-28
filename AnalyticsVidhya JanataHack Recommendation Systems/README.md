@@ -19,8 +19,3 @@ The client, on the other hand makes money when the users can find challenges of 
 
 
 The client has provided you with history of last 10 challenges the user has solved, and you need to predict which might be the next 3 challenges the user might be interested to solve. Apply your data science skills to help the client make a big mark in their user engagements/revenue.
-
-## LeaderBoard
-### Private LB: 6th Rank
-### Public LB: 6th Rank
-[https://datahack.analyticsvidhya.com/contest/janatahack-recommendation-systems/#LeaderBoard]
