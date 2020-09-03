@@ -12,9 +12,3 @@ Train.csv – 620 observations.
 Test.csv – 266 observations.
 Sample Submission – Sample format for the submission.
 Target Variable: grade
-
-## Leaderboard
-
-### Public LB: 49th rank
-### Private LB: 7th rank
-[https://www.machinehack.com/course/metal-furnace-challenge-weekend-hackathon-1/leaderboard]
