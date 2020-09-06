@@ -10,7 +10,3 @@ Train.csv –  2293 observations.
 Test.csv –  983 observations.
 Sample Submission – Sample format for the submission.
 Target Variable: MatchWinner
-
-## LeaderBoard 
-### Private LB: Rank 58
-[https://www.machinehack.com/course/odi-match-winner-weekend-hackathon-9/leaderboard]
