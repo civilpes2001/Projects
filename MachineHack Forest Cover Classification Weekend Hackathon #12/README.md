@@ -90,8 +90,3 @@ College of Natural Resources
 Colorado State University
 Fort Collins, CO 80523
 (contact Jock A. Blackard, jblackard @ fs.fed.us or Dr. Denis J. Dean, denis.dean @ utdallas.edu)
-
-## LeaderBoard
-### Private LB:
-### Public LB: 28th rank
-[https://www.machinehack.com/hackathons/forest_cover_classification_weekend_hackathon_12]
