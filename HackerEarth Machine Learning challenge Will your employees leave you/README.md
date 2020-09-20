@@ -13,9 +13,3 @@ The benefits of practicing this problem by using Machine Learning techniques are
 This challenge will encourage you to apply your Machine Learning skills to build models that can predict employee attrition rates.
 This challenge will help you enhance your knowledge of regression. Regression is one of the basic building blocks of Machine Learning.
 We challenge you to build a model that computes the attrition rate for an employee working in an organization.
-
-## LeaderBoard
-### Private LB:
-### Public LB: 182th rank
-
-[https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-employee-attrition-rate/leaderboard/]
