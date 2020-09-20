@@ -13,8 +13,3 @@ The benefits of practicing this problem by using Machine Learning techniques are
 This challenge will encourage you to apply your Machine Learning skills to build models to predict the lowest price of a product.
 This challenge will help you enhance your knowledge of regression. Regression is one of the basic building blocks of Machine Learning.
 We challenge you to build a predictive model that determines the lowest price at which a good can be sold on the day of sale.
-
-## LeaderBoard
-### Private LB:
-### Public LB: 2nd rank
-[https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-the-lowest-price/leaderboard]
