@@ -10,7 +10,3 @@ Train.csv –  2452 observations.
 Test.csv –  1051 observations.
 Sample Submission – Sample format for the submission.
 Target Variable: Selling_Price
-
-## LeaderBoard
-### Private LB: Rank 37
-[https://www.machinehack.com/course/e-commerce-price-prediction-weekend-hackathon-8/leaderboard]
