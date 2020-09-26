@@ -16,8 +16,3 @@ The unzipped folder will have the following files.
 Train.csv – 947 observations.
 Test.csv – 527 observations.
 Sample Submission – Sample format for the submission.
-
-## LeaderBoard:
-### Public LB: 25 rank
-### Private LB: 63 rank
-[https://www.machinehack.com/course/message-polarity-prediction-weekend-hackathon-3/leaderboard]
