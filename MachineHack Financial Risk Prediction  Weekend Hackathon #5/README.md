@@ -10,8 +10,3 @@ Train.csv – 543 observations.
 Test.csv – 233 observations.
 Sample Submission – Sample format for the submission.
 Target Variable: IsUnderRisk
-
-## Leaderboard
-### Private LB: 37th rank
-### Public LB : 144th rank
-[https://www.machinehack.com/course/financial-risk-prediction-weekend-hackathon-5/leaderboard]
