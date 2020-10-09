@@ -6,8 +6,3 @@ This is the perfect starting point to ignite your fledging machine learning care
 If you haven't enrolled to the program already, Don't wait! 
 
 We are providing this program free of cost to support learners from all over the world to maximise their learning while staying at home in the prevailing conditions for 14 days from the day of enrollment!
-
-## Leaderboard
-### Private LB: 10th rank
-### Public LB: 9th rank
-[https://datahack.analyticsvidhya.com/contest/machine-learning-starter-program-hackathon/#LeaderBoard]
