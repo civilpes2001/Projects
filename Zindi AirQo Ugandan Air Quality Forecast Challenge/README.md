@@ -24,7 +24,3 @@ AirQo is a research initiative of the College of Computing and Information Scien
 ASAP (asap.uk.com)
 
 ASAP (A Systems Approach to Air Pollution) is a research project led the University of Birmingham, UK with multiple international partners focusing on urbanisation and air quality in east Africa, with a focus on Uganda, Kenya and Ethiopia. The project takes a multidisciplinary approach to studying the causes and consequences of air pollution in the region as it develops. They also explore the governance, awareness raising and policy issues involved in finding solutions to this challenge.
-
-## LeaderBoard
-### Current LB: 110 rank
-[https://zindi.africa/competitions/airqo-ugandan-air-quality-forecast-challenge/leaderboard]
