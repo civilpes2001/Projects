@@ -21,7 +21,3 @@ The United Nations Children's Fund (UNICEF) is a United Nations agency responsib
 
 
 Arm is the world’s leading semiconductor IP company with technologies reaching 70% of the global population. Arm’s device architectures orchestrate the performance of the technology that's transforming our lives — from smartphones to supercomputers, from medical instruments to agricultural sensors, and from base stations to servers. In response to the Global Goals and in recognition of Arm’s position within the technology sector, Arm founded 2030Vision in 2017, in partnership with the UN system and others.
-
-## LeaderBoard
-### Current LB: 57/1570
-[https://zindi.africa/competitions/2030-vision-flood-prediction-in-malawi/leaderboard]
