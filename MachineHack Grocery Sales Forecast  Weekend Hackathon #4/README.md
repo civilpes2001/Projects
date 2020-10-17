@@ -12,3 +12,7 @@ Train.csv – 692 observations.
 Test.csv – 90 observations.
 Sample Submission – Sample format for the submission.
 Target Variable: GrocerySales
+
+## LeaderBoard
+### Private LB : 37th rank
+[https://www.machinehack.com/course/grocery-sales-forecast-weekend-hackathon-4/leaderboard]
