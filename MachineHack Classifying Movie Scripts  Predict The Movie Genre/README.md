@@ -17,8 +17,3 @@ Test.csv – 849 script file names without the class labels.
 Scripts – Folder with 2827 scripts .txt files.
 Sample Submission – Sample format for the submission.
 Started Notebook – A simple benchmark notebook
-
-## LeaderBoard
-### Public LB: 33 rank
-### Private LB : 8th rank
-[https://www.machinehack.com/course/classifying-movie-scripts-predict-the-movie-genre/leaderboard]
