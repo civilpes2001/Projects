@@ -24,8 +24,3 @@ Temperature (T) in the range 1.81°C and 37.11°C
 Exhaust Vacuum (V) in the range 25.36-81.56 cm Hg
 Net hourly electrical energy output (PE) 420.26-495.76 MW
 The averages are taken from various sensors located around the plant that record the ambient variables every second. The variables are given without normalization.
-
-## LeaderBoard
-### Private LB: 21th rank
-### Public LB: 24th rank
-[https://www.machinehack.com/hackathons/power_plant_energy_output_prediction_weekend_hackathon_13]
