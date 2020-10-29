@@ -15,8 +15,3 @@ The benefits of practicing this problem by using Machine Learning techniques are
 This challenge will encourage you to apply your Machine Learning skills to build models that can predict the effectiveness of a certain drug to cure an STD
 This challenge will help you enhance your knowledge of Natural Language Processing (NLP)
 We challenge you to build a model that determines how effective an STD drug is in certain circumstances.
-
-## Leaderboard
-### Private LB: 32 rank
-### Public LB: 32 rank
-[https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-std-drug-effectiveness/leaderboard/]
