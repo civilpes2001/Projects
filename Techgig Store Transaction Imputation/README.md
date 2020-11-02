@@ -20,6 +20,3 @@ Nielsen had conducted a webinar specially for this hackathon. Please do watch th
 
 
 https://www.techgig.com/webinar/Understanding-Sampling-Methodology-and-Challenges-with-Data-1697
-
-### Leaderboaard
-Rank - 67
