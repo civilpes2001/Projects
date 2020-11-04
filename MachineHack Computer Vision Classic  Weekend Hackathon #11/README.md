@@ -11,8 +11,3 @@ Sample_Submission.csv : The format of submission accepted
 Train.csv : contains the file name and appropriate category for each image in the train data
 Test.csv : contains the file name for each image in the test data
 To start quickly, we are providing this tutorial which has a few simple yet effective methods that you can use to build a powerful image classifier, using only very few training examples --just a few hundred or thousand pictures from each class you want to be able to categorize. Building powerful image classification models using very little data
-
-## LeaderBoard:
-### Private LB: 15th rank
-### Public LB: 21th rank
-[https://www.machinehack.com/hackathons/computer_vision_classic_weekend_hackathon_11]
