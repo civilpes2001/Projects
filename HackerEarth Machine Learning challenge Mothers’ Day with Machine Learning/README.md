@@ -13,8 +13,3 @@ The benefits of practicing this problem by using Machine Learning techniques are
 This challenge will encourage you to apply your Machine Learning skills to build models that can process a receipt and output the total amount mentioned in it.
 This challenge will help you enhance your knowledge of Natural Language Processing (NLP). NLP is one of the advanced fields of Machine Learning and Artificial Intelligence.
 We challenge you to build a model that analyzes sentiments of a tweet and classifies them into positive, negative, and neutral.
-
-## Leaderboard
-### Current LB: 3rd rank
-### Private LB: 2nd Rank
-[https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-mothers-day/leaderboard/]
