@@ -37,8 +37,4 @@ Launched in August 2019, the UK Oman Digital Hub focuses on joining together UK 
 
 PhazeRo converts Oman’s human potential into high-performing talent through experience-based learning. PhazeRo believes that high-performing talent is the cornerstone in realising their vision to establish Oman as the technology hub of the region.
 
-PhazeRo is building the region's largest engineering team from local software talent. They specialize in Software Engineering, Interaction Design, Data Science and Cyber Security
-
-## LeaderBoard
-### Current LB: 35th rank
-[https://zindi.africa/hackathons/akeed-restaurant-recommendation-hackathon/leaderboard]
+PhazeRo is building the region's largest engineering team from local software talent. They specialize in Software Engineering, Interaction Design, Data Science and Cyber Security.
