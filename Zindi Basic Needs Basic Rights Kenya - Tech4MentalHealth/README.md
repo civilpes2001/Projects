@@ -13,8 +13,3 @@ This solution will be used for a prototype of a mental health chatbot designed s
 
 
 This challenge is sponsored by Basic Needs Basic Rights (BNBR) Kenya. BNBR supports people with or at increased risk of mental health problems to live and work successfully in their communities by facilitating access to mental health care and social support services.
-
-## LeaderBoard
-### Public auc: 0.63
-### Private auc: 0.4715
-[https://zindi.africa/competitions/basic-needs-basic-rights-kenya-tech4mentalhealth/leaderboard]
