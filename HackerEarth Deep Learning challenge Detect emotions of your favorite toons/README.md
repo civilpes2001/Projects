@@ -15,8 +15,3 @@ The benefits of practicing this problem by using Machine Learning/Deep Learning 
 This challenge will encourage you to apply your Machine Learning skills to build models that analyze and classify frames of videos
 This challenge will help you enhance your knowledge of multi-label image classification actively. It is one of the basic building blocks of Deep Learning
 We challenge you to build a model that detects the emotions of Tom or Jerry in each video frame.
-
-## Leaderboard
-### Public LB: 37 rank
-### Private LB: 56 rank
-[https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-emotion-detection-tom-jerry-cartoon/leaderboard/]
