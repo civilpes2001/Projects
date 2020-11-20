@@ -7,8 +7,3 @@ Brush up your skills in Time Series and get ready for our latest JanataHack on T
 
 Time Series Modelling in R
 Time Series Forecasting using Auto Arima
-
-## LeaderBoard
-### Private LB: 76 rank 
-### Public LB: 27 rank
-[https://datahack.analyticsvidhya.com/contest/janatahack-time-series-forecasting/#LeaderBoard]
