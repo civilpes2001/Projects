@@ -22,8 +22,3 @@ Here is the new HackerEarth Machine Learning Challenge—Predict the DEFCON leve
 
 This challenge is designed to help you improve your Machine Learning skills by competing and learning from fellow participants.
 
-## Leaderboard
-
-### Public LB Rank- 32
-### Private LB Rank- 61 
-[https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-defcon-level/leaderboard/]
