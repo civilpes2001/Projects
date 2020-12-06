@@ -9,8 +9,3 @@ Natural Language Processing is expected to be worth 30 Billion USD by 2024 with 
 
 
 Brush up your skills in NLP and get ready for our longest JanataHack till date filled with loads of learning and competition. Here are a few free resources from Analytics Vidhya to help you get ready:
-
-## leaderboard
-### Public LB- 61 rank
-### Private LB- 55 rank
-[https://datahack.analyticsvidhya.com/contest/janatahack-nlp-hackathon/#LeaderBoard]
