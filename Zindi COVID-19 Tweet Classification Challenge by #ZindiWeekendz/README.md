@@ -17,7 +17,3 @@ All winning solutions will be shared as a public good on GitHub. We are committe
 
 📷
 This hackathon is sponsored by Microsoft (Nasdaq “MSFT” @microsoft). Microsoft enables digital transformation for the era of an intelligent cloud and an intelligent edge. Microsoft has operated in Africa for more than 25 years. In that time they have built strong partnerships across the continent, helped bridge gaps in infrastructure, connectivity and capability, and are working to empower countries in Africa to digitally transform while creating sustained societal impact. Earlier this year, Microsoft opened Africa’s first hyper-scale data centers in Johannesburg and Cape Town, South Africa. Most recently, the company also announced the opening of two Africa Development Centers in Nairobi and Lagos, where world-class African talent can create innovative solutions for local and global impact.
-
-## LeaderBoard
-### Current LB: 57th rank
-[https://zindi.africa/hackathons/covid-19-tweet-classification-challenge/leaderboard]
