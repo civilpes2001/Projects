@@ -39,6 +39,8 @@ Sklearn models support the predict() method to generate the predicted values<br>
 You should submit a .csv/.xlsx file with exactly 122049 rows with 1 column(i.e. UnitPrice). Your submission will return an Invalid Score if you have extra columns or rows.<br>
 The file should have exactly 1 column.<br>
 
+![](images/qwer.png)
+
 Using pandas, one can do submission_df.to_csv('my_submission_file.csv', index=False)
  
   
